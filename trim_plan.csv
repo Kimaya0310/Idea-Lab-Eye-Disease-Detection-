@@ -1,0 +1,197 @@
+original_path,type
+D:\Eye Disease Project\Dataset\.venv,dir
+D:\Eye Disease Project\Dataset\10_bad.JPG,file
+D:\Eye Disease Project\Dataset\10_good.JPG,file
+D:\Eye Disease Project\Dataset\11_bad.JPG,file
+D:\Eye Disease Project\Dataset\11_good.JPG,file
+D:\Eye Disease Project\Dataset\12_bad.JPG,file
+D:\Eye Disease Project\Dataset\12_good.JPG,file
+D:\Eye Disease Project\Dataset\13_bad.JPG,file
+D:\Eye Disease Project\Dataset\13_good.JPG,file
+D:\Eye Disease Project\Dataset\14_bad.JPG,file
+D:\Eye Disease Project\Dataset\14_good.JPG,file
+D:\Eye Disease Project\Dataset\15_bad.JPG,file
+D:\Eye Disease Project\Dataset\15_good.JPG,file
+D:\Eye Disease Project\Dataset\16_bad.JPG,file
+D:\Eye Disease Project\Dataset\16_good.JPG,file
+D:\Eye Disease Project\Dataset\17_bad.JPG,file
+D:\Eye Disease Project\Dataset\17_good.JPG,file
+D:\Eye Disease Project\Dataset\18_bad.JPG,file
+D:\Eye Disease Project\Dataset\18_good.JPG,file
+D:\Eye Disease Project\Dataset\1_bad.JPG,file
+D:\Eye Disease Project\Dataset\1_good.JPG,file
+D:\Eye Disease Project\Dataset\2_bad.JPG,file
+D:\Eye Disease Project\Dataset\2_good.JPG,file
+D:\Eye Disease Project\Dataset\3_bad.JPG,file
+D:\Eye Disease Project\Dataset\3_good.JPG,file
+D:\Eye Disease Project\Dataset\4_bad.JPG,file
+D:\Eye Disease Project\Dataset\4_good.JPG,file
+D:\Eye Disease Project\Dataset\5_bad.JPG,file
+D:\Eye Disease Project\Dataset\5_good.JPG,file
+D:\Eye Disease Project\Dataset\6_bad.JPG,file
+D:\Eye Disease Project\Dataset\6_good.JPG,file
+D:\Eye Disease Project\Dataset\7_bad.JPG,file
+D:\Eye Disease Project\Dataset\7_good.JPG,file
+D:\Eye Disease Project\Dataset\8_bad.JPG,file
+D:\Eye Disease Project\Dataset\8_good.JPG,file
+D:\Eye Disease Project\Dataset\9_bad.JPG,file
+D:\Eye Disease Project\Dataset\9_good.JPG,file
+D:\Eye Disease Project\Dataset\BinRushed,dir
+D:\Eye Disease Project\Dataset\CFPs,dir
+D:\Eye Disease Project\Dataset\MESSIDOR,dir
+D:\Eye Disease Project\Dataset\Magrabia,dir
+D:\Eye Disease Project\Dataset\PapilaDB-PAPILA-17f8fa7746adb20275b5b6a0d99dc9dfe3007e9f\.DS_Store,file
+D:\Eye Disease Project\Dataset\PapilaDB-PAPILA-17f8fa7746adb20275b5b6a0d99dc9dfe3007e9f\ExpertsSegmentations,dir
+D:\Eye Disease Project\Dataset\PapilaDB-PAPILA-17f8fa7746adb20275b5b6a0d99dc9dfe3007e9f\HelpCode,dir
+D:\Eye Disease Project\Dataset\PapilaDB-PAPILA-17f8fa7746adb20275b5b6a0d99dc9dfe3007e9f\README.md,file
+D:\Eye Disease Project\Dataset\Readme_Chaksu IMAGE Database.pdf,file
+D:\Eye Disease Project\Dataset\Test\Test\.DS_Store,file
+D:\Eye Disease Project\Dataset\Test\Test\1.0_Original_Fundus_Images\.DS_Store,file
+D:\Eye Disease Project\Dataset\Test\Test\1.0_Original_Fundus_Images\Forus\.DS_Store,file
+D:\Eye Disease Project\Dataset\Test\Test\2.0_Doctors_Annotations,dir
+D:\Eye Disease Project\Dataset\Test\Test\3.0_Doctors_Annotations_Binary_OD_OC,dir
+D:\Eye Disease Project\Dataset\Test\Test\4.0_OD_CO_Fusion_Images,dir
+D:\Eye Disease Project\Dataset\Test\Test\5.0_OD_OC_Mean_Median_Majority_STAPLE,dir
+D:\Eye Disease Project\Dataset\Test\Test\6.0_Glaucoma_Decision\.DS_Store,file
+D:\Eye Disease Project\Dataset\Test\Test\6.0_Glaucoma_Decision\Expert 1,dir
+D:\Eye Disease Project\Dataset\Test\Test\6.0_Glaucoma_Decision\Expert 2,dir
+D:\Eye Disease Project\Dataset\Test\Test\6.0_Glaucoma_Decision\Expert 3,dir
+D:\Eye Disease Project\Dataset\Test\Test\6.0_Glaucoma_Decision\Expert 4,dir
+D:\Eye Disease Project\Dataset\Test\Test\6.0_Glaucoma_Decision\Expert 5,dir
+D:\Eye Disease Project\Dataset\Test\Test\6.0_Glaucoma_Decision\Glaucoma_Decision_Comparison_Bosch.csv,file
+D:\Eye Disease Project\Dataset\Test\Test\6.0_Glaucoma_Decision\Majority,dir
+D:\Eye Disease Project\Dataset\Test\Test\6.0_Glaucoma_Decision\Mean,dir
+D:\Eye Disease Project\Dataset\Test\Test\6.0_Glaucoma_Decision\Median,dir
+D:\Eye Disease Project\Dataset\Test\__MACOSX,dir
+D:\Eye Disease Project\Dataset\Train\Train\.DS_Store,file
+D:\Eye Disease Project\Dataset\Train\Train\1.0_Original_Fundus_Images\.DS_Store,file
+D:\Eye Disease Project\Dataset\Train\Train\1.0_Original_Fundus_Images\Bosch\.DS_Store,file
+D:\Eye Disease Project\Dataset\Train\Train\2.0_Doctors_Annotations,dir
+D:\Eye Disease Project\Dataset\Train\Train\3.0_Doctors_Annotations_Binary_OD_OC,dir
+D:\Eye Disease Project\Dataset\Train\Train\4.0_OD_CO_Fusion_Images,dir
+D:\Eye Disease Project\Dataset\Train\Train\5.0_OD_OC_Mean_Median_Majority_STAPLE,dir
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\.DS_Store,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 1\.DS_Store,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 1\.Rhistory,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 1\Bosch.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 1\BoschVsMeanCup.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 1\BoschVsMeanDisc.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 1\BoschVsMedianCup.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 1\BoschVsMedianDisc.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 1\Forus.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 1\ForusVsMeanCup.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 1\ForusVsMeanDisc.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 1\ForusVsMedianCup.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 1\ForusVsMedianDisc.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 1\MajorityVsMeanVsMedian.pdf,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 1\Remidio.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 1\RemidioVsMeanCup.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 1\RemidioVsMeanDisc.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 1\RemidioVsMedianCup.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 1\RemidioVsMedianDisc.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 1\STAPLE_E1_Bosch_Cup.xls,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 1\STAPLE_E1_Bosch_Disc.xls,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 1\STAPLE_E1_Remedio_Cup.xls,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 1\STAPLE_E1_Remedio_Disc.xls,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 1\STAPLE_Forus_E1_Cup.xls,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 1\STAPLE_Forus_E1_Disc.xls,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 2\.DS_Store,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 2\Bosch.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 2\BoschVsMeanCup.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 2\BoschVsMeanDisc.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 2\BoschVsMedianCup.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 2\BoschVsMedianDisc.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 2\Forus.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 2\ForusVsMeanCup.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 2\ForusVsMeanDisc.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 2\ForusVsMedianCup.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 2\ForusVsMedianDisc.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 2\MajorityVsMeanVsMedian.pdf,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 2\Remidio.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 2\RemidioVsMeanCup.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 2\RemidioVsMeanDisc.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 2\RemidioVsMedianCup.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 2\RemidioVsMedianDisc.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 2\STAPLE_E2_Bosch_Cup.xls,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 2\STAPLE_E2_Bosch_Disc.xls,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 2\STAPLE_E2_Remedio_Cup.xls,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 2\STAPLE_E2_Remedio_Disc.xls,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 2\STAPLE_Forus_E2_Cup.xls,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 2\STAPLE_Forus_E2_Disc.xls,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 3\.DS_Store,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 3\Bosch.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 3\BoschVsMeanCup.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 3\BoschVsMeanDisc.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 3\BoschVsMedianCup.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 3\BoschVsMedianDisc.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 3\Forus.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 3\ForusVsMeanCup.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 3\ForusVsMeanDisc.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 3\ForusVsMedianCup.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 3\ForusVsMedianDisc.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 3\Remidio.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 3\RemidioVsMeanCup.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 3\RemidioVsMeanDisc.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 3\RemidioVsMedianCup.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 3\RemidioVsMedianDisc.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 3\STAPLE_E3_Bosch_Cup.xls,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 3\STAPLE_E3_Bosch_Disc.xls,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 3\STAPLE_E3_Remedio_Cup.xls,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 3\STAPLE_E3_Remedio_Disc.xls,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 3\STAPLE_Forus_E3_Cup.xls,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 3\STAPLE_Forus_E3_Disc.xls,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 4\Bosch.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 4\BoschVsMeanCup.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 4\BoschVsMeanDisc.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 4\BoschVsMedianCup.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 4\BoschVsMedianDisc.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 4\Forus.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 4\ForusVsMeanCup.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 4\ForusVsMeanDisc.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 4\ForusVsMedianCup.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 4\ForusVsMedianDisc.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 4\MajorityVsMeanVsMedian.pdf,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 4\Remidio.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 4\RemidioVsMeanCup.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 4\RemidioVsMeanDisc.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 4\RemidioVsMedianCup.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 4\RemidioVsMedianDisc.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 4\STAPLE_E4_Bosch_Cup.xls,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 4\STAPLE_E4_Bosch_Disc.xls,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 4\STAPLE_E4_Remedio_Cup.xls,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 4\STAPLE_E4_Remedio_Disc.xls,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 4\STAPLE_Forus_E4_Cup.xls,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 4\STAPLE_Forus_E4_Disc.xls,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 5\.DS_Store,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 5\.Rhistory,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 5\Bosch.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 5\BoschVsMeanCup.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 5\BoschVsMeanDisc.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 5\BoschVsMedianCup.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 5\BoschVsMedianDisc.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 5\Forus.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 5\ForusVsMeanCup.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 5\ForusVsMeanDisc.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 5\ForusVsMedianCup.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 5\ForusVsMedianDisc.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 5\MajorityVsMeanVsMedian.pdf,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 5\Remidio.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 5\RemidioVsMeanCup.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 5\RemidioVsMeanDisc.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 5\RemidioVsMedianCup.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 5\RemidioVsMedianDisc.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 5\STAPLE_E5_Bosch_Cup.xls,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 5\STAPLE_E5_Bosch_Disc.xls,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 5\STAPLE_E5_Remedio_Cup.xls,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 5\STAPLE_E5_Remedio_Disc.xls,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 5\STAPLE_Forus_E5_Cup.xls,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Expert 5\STAPLE_Forus_E5_Disc.xls,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Glaucoma_Decision_Comparison_Bosch.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Glaucoma_Decision_Comparison_Forus.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Glaucoma_Decision_Comparison_Remidio.csv,file
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Majority,dir
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Mean,dir
+D:\Eye Disease Project\Dataset\Train\Train\6.0_Glaucoma_Decision\Median,dir
+D:\Eye Disease Project\Dataset\Train\__MACOSX,dir
+D:\Eye Disease Project\Dataset\dataset_audit,dir
+D:\Eye Disease Project\Dataset\ddb1_v02_01,dir
